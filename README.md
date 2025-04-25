@@ -36,6 +36,7 @@ ________________________________________
 ## Key Findings
 ### Loan Application Summary
 |Metric|Value|
+|---|---|
 |Total Applications|614|
 |Total Approved Loans|422|
 |Total Rejected Loans|192|
@@ -46,6 +47,7 @@ ________________________________________
 ## Impact of Credit History on Loan Approval
 
 |Credit History|Approval Rate|
+|---|---|
 |Good|79%|
 |Poor|9%|
 |No History|50%|
@@ -54,6 +56,7 @@ ________________________________________
 ________________________________________
 ## Applicant Income vs Loan Status
 |Loan Status|Average Applicant Income|
+|---|---|
 |Approved|5,200|
 |Rejected|3,100|
 
@@ -61,6 +64,7 @@ ________________________________________
 ________________________________________
 ## Loan Status by Property Area
 |Property Area|Approval Rate|
+|---|---|
 |Urban|68%|
 |Semi-Urban|76%|
 |Rural|63%|
@@ -69,6 +73,7 @@ ________________________________________
 ________________________________________
 ## Impact of Dependents on Loan Approval
 |No. of Dependents|Approval Rate|
+|---|---|
 |0|72%|
 |1|75%|
 |2|68%|
